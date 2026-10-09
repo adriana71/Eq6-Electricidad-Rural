@@ -4,6 +4,8 @@
 
 ## Reporte de instalación de sistema fotovoltaicos, Nación Navajo
 
+Aquí vas a empezar a escribir
+
 ## Instalación de sistema fotovoltaicos en Perú
 
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
