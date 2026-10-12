@@ -7,7 +7,7 @@ El documento destaca la importancia de instalar correctamente los paneles, dimen
 
 En los sistemas híbridos, los generadores complementan la energía solar cuando la producción es insuficiente. Finalmente, la guía resalta la importancia del mantenimiento, la documentación técnica y el cumplimiento de las normas de seguridad para garantizar un funcionamiento eficiente, seguro y duradero.
 ## Estándares de instalación
-
+texto
 ## Reporte de instalación de sistema fotovoltaicos, Nación Navajo
 
 El proyecto Skip the Grid, desarrollado por estudiantes de la Universidad Politécnica Estatal de California en colaboración con empresas y organizaciones comunitarias, busca proporcionar electricidad a familias de las naciones Navajo y Hopi que no tienen acceso a la red eléctrica. En marzo de 2026, el equipo instaló 50 sistemas solares aislados en viviendas, utilizando paneles fotovoltaicos, baterías, refrigeradores y luces LED.
