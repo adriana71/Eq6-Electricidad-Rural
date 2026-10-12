@@ -10,10 +10,13 @@ En los sistemas híbridos, los generadores complementan la energía solar cuando
 
 ## Reporte de instalación de sistema fotovoltaicos, Nación Navajo
 
-Aquí vas a empezar a escribir
+El proyecto Skip the Grid, desarrollado por estudiantes de la Universidad Politécnica Estatal de California en colaboración con empresas y organizaciones comunitarias, busca proporcionar electricidad a familias de las naciones Navajo y Hopi que no tienen acceso a la red eléctrica. En marzo de 2026, el equipo instaló 50 sistemas solares aislados en viviendas, utilizando paneles fotovoltaicos, baterías, refrigeradores y luces LED.
+El proyecto demuestra que la energía solar puede proporcionar electricidad para necesidades básicas, mejorar la calidad de vida y reducir la desigualdad energética. También destaca la importancia de la colaboración entre estudiantes, profesionales y comunidades para desarrollar soluciones sostenibles.
 
 ## Instalación de sistema fotovoltaicos en Perú
-
+El artículo analiza el impacto de instalar sistemas solares fotovoltaicos aislados en comunidades rurales de Perú que no cuentan con acceso a la red eléctrica. Estos sistemas permiten utilizar electricidad para estudiar durante la noche, cargar dispositivos electrónicos y mejorar las actividades cotidianas.
+El proyecto también destaca la importancia de la participación comunitaria, la capacitación de los habitantes y el mantenimiento de los equipos para garantizar su funcionamiento a largo plazo.
+La energía solar es una alternativa viable para llevar electricidad a zonas rurales, mejorar la calidad de vida y fomentar el desarrollo social. Sin embargo, es necesario planificar adecuadamente los costos y el mantenimiento para asegurar la sostenibilidad del proyecto.
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
 Texto
 ## Renewable energy for remote communities: a guidebook for off-grid projects
