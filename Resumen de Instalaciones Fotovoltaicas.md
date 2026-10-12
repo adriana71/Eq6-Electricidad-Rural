@@ -1,5 +1,11 @@
 # Resumen
+La guía de SEIAPI establece los requisitos y recomendaciones para instalar sistemas fotovoltaicos aislados de la red eléctrica, tanto sistemas que utilizan únicamente energía solar como sistemas híbridos que incorporan generadores eléctricos.
 
+Estos sistemas están compuestos por paneles solares, controladores de carga, baterías, inversores, cableado y dispositivos de protección. Los paneles generan electricidad, las baterías almacenan energía y los inversores permiten alimentar equipos eléctricos convencionales.
+
+El documento destaca la importancia de instalar correctamente los paneles, dimensionar el cableado, proteger las conexiones eléctricas y colocar las baterías y los equipos en lugares seguros y ventilados. También recomienda realizar pruebas antes de poner el sistema en funcionamiento.
+
+En los sistemas híbridos, los generadores complementan la energía solar cuando la producción es insuficiente. Finalmente, la guía resalta la importancia del mantenimiento, la documentación técnica y el cumplimiento de las normas de seguridad para garantizar un funcionamiento eficiente, seguro y duradero.
 ## Estándares de instalación
 
 ## Reporte de instalación de sistema fotovoltaicos, Nación Navajo
