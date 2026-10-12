@@ -20,7 +20,7 @@ La energía solar es una alternativa viable para llevar electricidad a zonas rur
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
 Texto
 ## Renewable energy for remote communities: a guidebook for off-grid projects
-
+texto
 ## Off Grid PV power systems, system installation guidelinges
 
 Evaluación
