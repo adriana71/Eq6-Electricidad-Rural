@@ -18,9 +18,9 @@ El artículo analiza el impacto de instalar sistemas solares fotovoltaicos aisla
 El proyecto también destaca la importancia de la participación comunitaria, la capacitación de los habitantes y el mantenimiento de los equipos para garantizar su funcionamiento a largo plazo.
 La energía solar es una alternativa viable para llevar electricidad a zonas rurales, mejorar la calidad de vida y fomentar el desarrollo social. Sin embargo, es necesario planificar adecuadamente los costos y el mantenimiento para asegurar la sostenibilidad del proyecto.
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
-Texto
+Describe como se entranenan técnicos capaces de gestionar un negocio de servicios solares, nos habla un poco de el funcionamiento básico, y se centra en que el sistema  debe calcularse a partir de las necesidades reales del usuario. Consumo diario, disponibilidad solar, las pérdidas de energía y los días de autonomía necesarios. La batería debe elegirse procurando que las descargas habituales no reduzcan demasiado su vida útil. Se propone una metodologia de enseñanza por teoria, mediciones, monatje de circuitos, simulación de fallas y evaluación. Además, considera al usuario parte del sistema: debe conocer sus límites, interpretar los indicadores y realizar el mantenimiento pertinente.
 ## Renewable energy for remote communities: a guidebook for off-grid projects
-texto
+Como llevar electricidad a comunidades remotas mediante sistemas autónomos y minirredes con energías renovables, con proposito de orientar a gobiernos, empresas, organizaciones y líderes comunitarios para desarrollar proyectos que puedan mantenerse en funcionamiento a largo plazo., Señala que hay que involucrar a la comunidad, capacitar a la comunidad, administrar el consumo, apoyar actividades productivas y servicios públicos. 
 ## Off Grid PV power systems, system installation guidelinges
 
 Evaluación
