@@ -9,7 +9,7 @@ Aquí vas a empezar a escribir
 ## Instalación de sistema fotovoltaicos en Perú
 
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
-
+Texto
 ## Renewable energy for remote communities: a guidebook for off-grid projects
 
 ## Off Grid PV power systems, system installation guidelinges
