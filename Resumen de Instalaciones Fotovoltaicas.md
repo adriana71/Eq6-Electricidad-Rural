@@ -19,8 +19,37 @@ El proyecto también destaca la importancia de la participación comunitaria, la
 La energía solar es una alternativa viable para llevar electricidad a zonas rurales, mejorar la calidad de vida y fomentar el desarrollo social. Sin embargo, es necesario planificar adecuadamente los costos y el mantenimiento para asegurar la sostenibilidad del proyecto.
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
 Describe como se entranenan técnicos capaces de gestionar un negocio de servicios solares, nos habla un poco de el funcionamiento básico, y se centra en que el sistema  debe calcularse a partir de las necesidades reales del usuario. Consumo diario, disponibilidad solar, las pérdidas de energía y los días de autonomía necesarios. La batería debe elegirse procurando que las descargas habituales no reduzcan demasiado su vida útil. Se propone una metodologia de enseñanza por teoria, mediciones, monatje de circuitos, simulación de fallas y evaluación. Además, considera al usuario parte del sistema: debe conocer sus límites, interpretar los indicadores y realizar el mantenimiento pertinente.
+
 ## Renewable energy for remote communities: a guidebook for off-grid projects
 Como llevar electricidad a comunidades remotas mediante sistemas autónomos y minirredes con energías renovables, con proposito de orientar a gobiernos, empresas, organizaciones y líderes comunitarios para desarrollar proyectos que puedan mantenerse en funcionamiento a largo plazo., Señala que hay que involucrar a la comunidad, capacitar a la comunidad, administrar el consumo, apoyar actividades productivas y servicios públicos. 
+
+La guía de IRENA (2023) aborda la electrificación mediante sistemas autónomos y minirredes renovables, con participación comunitaria, capacitación y financiamiento sostenible.
+
+### Desigualdades del suministro
+
+Con datos de 2021, reporta acceso eléctrico del 98 % urbano y 85 % rural; 675 millones de personas carecían de electricidad. En los países menos adelantados, la cobertura era del 56 %. Son datos históricos, no cifras actuales.
+
+### Suministro independiente frente a la red eléctrica
+
+| Alternativa | Ventajas | Desventajas |
+|---|---|---|
+| Independiente | Aprovecha recursos locales, adapta su capacidad y evita extender líneas. | Requiere mantenimiento local, capacitación, financiamiento y gestión de la disponibilidad energética. |
+| Red convencional | Aprovecha economías de escala donde hay población y demanda suficientes. | Su extensión resulta costosa y lenta en asentamientos dispersos. |
+
+### Regiones y comunidades estudiadas
+
+| Lugar | Características |
+|---|---|
+| Old Crow, Canadá | Comunidad indígena; energía solar para reducir diésel. |
+| Dollo Ado y Bokolmayo, Etiopía | Refugiados; cooperativas solares. |
+| Zanzan, Costa de Marfil | Aldeas remotas; gestión comunitaria. |
+| Totota, Liberia | Cooperativa eléctrica local. |
+| Oaxaca, México | Viviendas dispersas en altura; sistemas solares domésticos. |
+| Okhaldunga, Nepal | Colinas rurales; capacitación para operar la minirred. |
+| Eigg, Escocia | Isla; generación híbrida y límites de consumo. |
+| Sarawak, Malasia | Aldeas remotas; electrificación solar aislada. |
+| Loltong, Vanuatu | Comunidad insular; energía solar y picohidráulica. |
+.
 ## Off Grid PV power systems, system installation guidelinges
 
 Evaluación
