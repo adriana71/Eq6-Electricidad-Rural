@@ -17,14 +17,19 @@ El proyecto demuestra que la energía solar puede proporcionar electricidad para
 El artículo analiza el impacto de instalar sistemas solares fotovoltaicos aislados en comunidades rurales de Perú que no cuentan con acceso a la red eléctrica. Estos sistemas permiten utilizar electricidad para estudiar durante la noche, cargar dispositivos electrónicos y mejorar las actividades cotidianas.
 El proyecto también destaca la importancia de la participación comunitaria, la capacitación de los habitantes y el mantenimiento de los equipos para garantizar su funcionamiento a largo plazo.
 La energía solar es una alternativa viable para llevar electricidad a zonas rurales, mejorar la calidad de vida y fomentar el desarrollo social. Sin embargo, es necesario planificar adecuadamente los costos y el mantenimiento para asegurar la sostenibilidad del proyecto.
+/////////nota complementar manual resumen: Añadir ¿cuáles son las diferentes aplicaciones de la energía solar?, ¿por qué y cuando usar un sistema fotovoltaico?, limitaciones, consideraciones de seguridad y problemas ambientales.
+Un punto importante que mencionas es que la base del sistema son las necesidades cliente por eso, desarrolla y explica por qué es importante, y que cosas son en las que nos debemos fija
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
 Describe como se entranenan técnicos capaces de gestionar un negocio de servicios solares, nos habla un poco de el funcionamiento básico, y se centra en que el sistema  debe calcularse a partir de las necesidades reales del usuario. Consumo diario, disponibilidad solar, las pérdidas de energía y los días de autonomía necesarios. La batería debe elegirse procurando que las descargas habituales no reduzcan demasiado su vida útil. Se propone una metodologia de enseñanza por teoria, mediciones, monatje de circuitos, simulación de fallas y evaluación. Además, considera al usuario parte del sistema: debe conocer sus límites, interpretar los indicadores y realizar el mantenimiento pertinente.
-
+Se menciona las necesidades del cliente por que en estas comunidades suelen tener una demanda de electricidad más baja, considerando esto podemos instalar sistemas de energia que no entregen tanto y asi mismo mantener los precios lo más bajo posible
 ## Renewable energy for remote communities: a guidebook for off-grid projects
+La guía de IRENA (2023) aborda la electrificación mediante sistemas autónomos y minirredes renovables, con participación comunitaria, capacitación y financiamiento sostenible.
 Como llevar electricidad a comunidades remotas mediante sistemas autónomos y minirredes con energías renovables, con proposito de orientar a gobiernos, empresas, organizaciones y líderes comunitarios para desarrollar proyectos que puedan mantenerse en funcionamiento a largo plazo., Señala que hay que involucrar a la comunidad, capacitar a la comunidad, administrar el consumo, apoyar actividades productivas y servicios públicos. 
 
-La guía de IRENA (2023) aborda la electrificación mediante sistemas autónomos y minirredes renovables, con participación comunitaria, capacitación y financiamiento sostenible.
-
+En esto nos tenemos que fijar:
+Se recomienda evaluar la radiación solar, los costos, el terreno, los equipos disponibles, el mantenimiento y principalmente, la demanda del usuario.
+¿Por qué y cuándo usar un sistema fotovoltaíco?
+El gobierno tiende a crear programas que involucran la extension de el cableado desde centrales muy lejanas lo cual es costoso, y retrasa los costos y ritmo de instalación
 ### Desigualdades del suministro
 
 Con datos de 2021, reporta acceso eléctrico del 98 % urbano y 85 % rural; 675 millones de personas carecían de electricidad. En los países menos adelantados, la cobertura era del 56 %. Son datos históricos, no cifras actuales.
