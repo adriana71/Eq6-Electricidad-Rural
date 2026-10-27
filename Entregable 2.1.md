@@ -2,17 +2,19 @@
 
 ## 1. Tipo de proyecto
 
-Proyecto de ingeniería aplicada cuyo producto es una metodología o protocolo para la instalación de un sistema fotovoltaico aislado de la red eléctrica, a partir de un sistema ya preestablecido (paneles, controlador de carga, baterías, inversor, cableado y protecciones). No se diseña un equipo nuevo: se define cómo instalar el sistema existente de forma ordenada y segura. La clasificación definitiva queda por confirmar con el equipo.
+Proyecto de ingeniería aplicada cuyo producto es un protocolo de instalación de un sistema fotovoltaico (PV) aislado de la red eléctrica, desarrollado con una metodología. El protocolo cubre desde los cuidados y requerimientos para construir el sistema hasta los elementos de protección y el seguimiento de las etapas de instalación.
 
 ## 2. Planteamiento del problema
 
-Existen comunidades rurales dispersas sin electricidad, a las que extender la red convencional es costoso y lento. Los sistemas fotovoltaicos aislados pueden atender esa necesidad, pero su éxito depende de cómo se instalen: evaluar riesgos, identificar el sistema, soportar los paneles, ubicar las baterías en sitios seguros y ventilados, proteger las conexiones y probar antes de la puesta en marcha. Estos requisitos están repartidos en varias guías y manuales. La necesidad es contar con una metodología o protocolo de instalación que los ordene para un sistema ya preestablecido y que considere la demanda real del usuario y su mantenimiento.
+Existen comunidades rurales dispersas sin electricidad, a las que extender la red convencional es costoso y lento. Los sistemas fotovoltaicos aislados pueden atender esa necesidad, pero su éxito depende de cómo se instalen.
+El problema principal es la falta de una guía clara y estructurada que abarque todos los aspectos de la instalación de un sistema PV. Sin ella no se puede iniciar: no se sabe qué se necesita comprar, qué herramientas se utilizarán, qué equipo de protección se requiere, cuáles son los riesgos, ni qué características de instalación y normas se deben tener en cuenta. Estos parámetros definen el éxito y el correcto funcionamiento de un sistema PV, y el proyecto los abordará mediante una metodología.
+Pregunta orientadora: ¿cómo estructurar, mediante una metodología, un protocolo de instalación de un sistema PV que indique con claridad qué se necesita (materiales, herramientas y equipo de protección), qué riesgos y normas se deben considerar y qué etapas seguir, para que la instalación sea correcta y el sistema funcione adecuadamente?
 
 
 ## 3. Contexto
 
-- Según datos de 2021 citados por IRENA (2023), el acceso a electricidad era de 98 % en zonas urbanas y de 85 % en zonas rurales; 675 millones de personas carecían de electricidad. En los países menos adelantados la cobertura era de 56 %. Son datos históricos, no cifras actuales.
-- Los programas gubernamentales tienden a extender el cableado desde centrales muy lejanas, lo cual es costoso y retrasa los costos y el ritmo de instalación.
+- Según datos de 2021 citados por IRENA (2023), el acceso a electricidad era de 98 % en zonas urbanas y de 85 % en zonas rurales; 675 millones de personas carecían de electricidad. En los países menos adelantados la cobertura era de 56 %.
+- Los programas gubernamentales tienden a extender el cableado desde centrales muy lejanas, lo cual es costoso y retrasa el ritmo de instalación.
 - Se han documentado casos de electrificación aislada en comunidades de Canadá, Etiopía, Costa de Marfil, Liberia, México (Oaxaca, viviendas dispersas en altura), Nepal, Escocia, Malasia y Vanuatu, así como en la Nación Navajo y Hopi (Estados Unidos) y en comunidades rurales de Perú.
 - Estas comunidades suelen tener una demanda de electricidad más baja, lo que permite instalar sistemas de menor capacidad y mantener los precios lo más bajos posible.
 
@@ -37,8 +39,7 @@ Existen comunidades rurales dispersas sin electricidad, a las que extender la re
 
 ## 6. Justificación inicial
 
-Es pertinente atender el problema porque la electrificación por red no llega de forma económica ni rápida a asentamientos dispersos, mientras que los sistemas aislados pueden adaptarse a la demanda real y reducir costos. Como el sistema ya está preestablecido, el valor del proyecto está en el protocolo: una instalación ordenada reduce los riesgos de las baterías y de las conexiones eléctricas y favorece la durabilidad. La base es la necesidad del cliente: en comunidades con demanda baja, un sistema de menor capacidad abarata la solución. Los casos revisados indican que la energía solar mejora la calidad de vida y fomenta el desarrollo social, siempre que se involucre y capacite a la comunidad y se planeen costos y mantenimiento.
-
+Es pertinente atender el problema porque sin una guía clara y estructurada no es posible iniciar la instalación de un sistema PV con certeza de qué comprar, qué herramientas y equipo de protección usar, qué riesgos enfrentar y qué normas cumplir, y de esos parámetros depende el éxito y el funcionamiento correcto del sistema. La electrificación por red no llega de forma económica ni rápida a asentamientos dispersos, mientras que los sistemas aislados pueden adaptarse a la demanda real y reducir costos. Una instalación ordenada reduce además los riesgos de las baterías y de las conexiones eléctricas. Los casos revisados indican que la energía solar mejora la calidad de vida y fomenta el desarrollo social, siempre que se involucre y capacite a la comunidad y se planeen costos y mantenimiento.
 Factores que se deben evaluar según IRENA (2023): radiación solar, costos, terreno, equipos disponibles, mantenimiento y, principalmente, demanda del usuario.
 
 ## 7. Evidencias y fuentes
@@ -51,20 +52,20 @@ Método utilizado en todos los casos: revisión documental.
 | 2 | Reporte del proyecto Skip the Grid, Nación Navajo y Hopi | Marzo de 2026 (instalación) | 50 sistemas aislados instalados; colaboración entre estudiantes, empresas y comunidad. |
 | 3 | Artículo sobre sistemas solares aislados en comunidades rurales de Perú | Por registrar | Beneficios de uso cotidiano; importancia de participación comunitaria, capacitación, mantenimiento y planeación de costos. |
 | 4 | Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos | Por registrar | Dimensionamiento según necesidades reales, elección de batería, metodología de enseñanza y papel del usuario. |
-| 5 | IRENA (2023), *Renewable energy for remote communities: a guidebook for off-grid projects* | 2023 (datos de 2021) | Brechas de acceso, comparación red contra suministro independiente, casos por región y factores a evaluar. |
+| 5 | IRENA (2023), *Renewable energy for remote communities: a guidebook for off-grid projects* | 2023 | Brechas de acceso, comparación red contra suministro independiente, casos por región y factores a evaluar. |
 | 6 | *Off Grid PV power systems, system installation guidelines* | Por registrar | Evaluación de riesgos, identificación del sistema, estructura, baterías e inversor. |
 
 ## 8. Información pendiente de confirmar
 
 - Fecha de publicación y de consulta de las fuentes 1, 3, 4 y 6.
-- Clasificación definitiva del tipo de proyecto.
-- Aplicaciones de la energía solar, y por qué y cuándo usar un sistema fotovoltaico (ampliar en el resumen del manual).
+- Aplicaciones de la energía solar, y por qué y cuándo usar un sistema fotovoltaico .
 - Limitaciones técnicas del sistema fotovoltaico y problemas ambientales asociados.
 - Datos propios de la comunidad objetivo: ubicación, demanda real de electricidad y radiación solar. Hasta ahora la evidencia es documental y no se ha confirmado con observación o entrevistas.
-- Cifras actuales de acceso a electricidad (las de IRENA son de 2021).
+- Cifras actuales de acceso a electricidad.
 - Costos estimados del sistema y de su mantenimiento.
-- Revisión por otro integrante y enlace al documento o commit.
-
-* Características del sistema preestablecido que se instalará (componentes y capacidad).
-* Si las guías existentes ya cubren la necesidad o si falta un protocolo propio, y qué formato tendrá (pasos, listas de verificación, pruebas).
+- Revisión por otro integrante.
+- Lista concreta de materiales, herramientas, equipo de protección y normas aplicables que incluirá el protocolo.
+- Comunidad rural de México a la que se adaptará el protocolo y sus condiciones particulares.
+- Características del sistema preestablecido que se instalará (componentes y capacidad).
+- Si las guías existentes ya cubren la necesidad o si falta un protocolo propio, y qué formato tendrá (pasos, listas de verificación, pruebas).
 
