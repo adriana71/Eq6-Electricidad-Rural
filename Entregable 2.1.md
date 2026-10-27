@@ -52,7 +52,7 @@ Método utilizado en todos los casos: revisión documental.
 | 2 | Reporte del proyecto Skip the Grid, Nación Navajo y Hopi | Marzo de 2026 (instalación) | 50 sistemas aislados instalados; colaboración entre estudiantes, empresas y comunidad. | Pendiente |
 | 3 | Artículo sobre sistemas solares aislados en comunidades rurales de Perú | Por registrar | Beneficios de uso cotidiano; importancia de participación comunitaria, capacitación, mantenimiento y planeación de costos. | Pendiente |
 | 4 | Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos | Por registrar | Dimensionamiento según necesidades reales, elección de batería, metodología de enseñanza y papel del usuario. | Pendiente |
-| 5 | IRENA (2023), *Renewable energy for remote communities: a guidebook for off-grid projects* | 2023 | Brechas de acceso, comparación red contra suministro independiente, casos por región y factores a evaluar. | [Consultar PDF] (https://www.irena.org/Publications/2023/Nov/Renewable-energy-for-remote-communities-A-guidebook-for-off-grid-projects)|
+| 5 | IRENA (2023), *Renewable energy for remote communities: a guidebook for off-grid projects* | 2023 | Brechas de acceso, comparación red contra suministro independiente, casos por región y factores a evaluar. | [Consultar PDF](https://www.irena.org/Publications/2023/Nov/Renewable-energy-for-remote-communities-A-guidebook-for-off-grid-projects).|
 | 6 | *Off Grid PV power systems, system installation guidelines* | Por registrar | Evaluación de riesgos, identificación del sistema, estructura, baterías e inversor. | [Consultar PDF](https://www.gsesinternational.com/wp-content/uploads/2021/04/Off-Grid-Install-Guidelines_V3.1-July-2019_compressed.pdf) |
 
 ## 8. Información pendiente de confirmar
