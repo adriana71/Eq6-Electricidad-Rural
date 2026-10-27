@@ -48,7 +48,7 @@ Método utilizado en todos los casos: revisión documental.
 
 | # | Fuente | Fecha | Qué aporta | Link |
 | --- | --- | --- | --- | --- |
-| 1 | Guía SEIAPI de instalación de sistemas fotovoltaicos aislados | Por registrar | Requisitos y recomendaciones para sistemas solares e híbridos: componentes, cableado, protecciones, pruebas, mantenimiento y documentación. | Pendiente |
+| 1 | Guía SEIAPI de instalación de sistemas fotovoltaicos aislados | Por registrar | Requisitos y recomendaciones para sistemas solares e híbridos: componentes, cableado, protecciones, pruebas, mantenimiento y documentación. | [Consultar PDF](https://www.gsesinternational.com/wp-content/uploads/2021/04/Off-Grid-Install-Guidelines_V3.1-July-2019_compressed.pdf). |
 | 2 | Reporte del proyecto Skip the Grid, Nación Navajo y Hopi | Marzo de 2026 (instalación) | 50 sistemas aislados instalados; colaboración entre estudiantes, empresas y comunidad. | [Consultar PDF](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=2163&context=cmsp). |
 | 3 | Artículo sobre sistemas solares aislados en comunidades rurales de Perú | Por registrar | Beneficios de uso cotidiano; importancia de participación comunitaria, capacitación, mantenimiento y planeación de costos. |[Consultar PDF](https://ojs.library.queensu.ca/index.php/ijsle/article/view/13194). |
 | 4 | Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos | Por registrar | Dimensionamiento según necesidades reales, elección de batería, metodología de enseñanza y papel del usuario. | [Consultar PDF](https://bdd.pseau.org/outils/biblio/resume.php?d=7568). |
