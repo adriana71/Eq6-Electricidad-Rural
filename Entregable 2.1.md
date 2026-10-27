@@ -2,13 +2,13 @@
 
 ## 1. Tipo de proyecto
 
-Proyecto de ingeniería aplicada cuyo producto es un protocolo de instalación de un sistema fotovoltaico (PV) aislado de la red eléctrica, desarrollado con una metodología. El protocolo cubre desde los cuidados y requerimientos para construir el sistema hasta los elementos de protección y el seguimiento de las etapas de instalación.
+Proyecto de ingeniería aplicada cuyo producto es un protocolo de instalación de un sistema fotovoltaico (PV) aislado de la red eléctrica, desarrollado con una metodología. El protocolo cubre desde la planeación y requerimientos para diseñar y construir el sistema hasta los elementos de protección y el seguimiento de las etapas de instalación.
 
 ## 2. Planteamiento del problema
 
-Existen comunidades rurales dispersas sin electricidad, a las que extender la red convencional es costoso y lento. Los sistemas fotovoltaicos aislados pueden atender esa necesidad, pero su éxito depende de cómo se instalen.
+Existen comunidades rurales dispersas sin electricidad, a las que extender la red convencional es costoso y lento. Los sistemas fotovoltaicos aislados pueden atender esa necesidad, pero su éxito depende de cómo se instalen, la transferencia del sistema tecnológico.
 El problema principal es la falta de una guía clara y estructurada que abarque todos los aspectos de la instalación de un sistema PV. Sin ella no se puede iniciar: no se sabe qué se necesita comprar, qué herramientas se utilizarán, qué equipo de protección se requiere, cuáles son los riesgos, ni qué características de instalación y normas se deben tener en cuenta. Estos parámetros definen el éxito y el correcto funcionamiento de un sistema PV, y el proyecto los abordará mediante una metodología.
-Pregunta orientadora: ¿cómo estructurar, mediante una metodología, un protocolo de instalación de un sistema PV que indique con claridad qué se necesita (materiales, herramientas y equipo de protección), qué riesgos y normas se deben considerar y qué etapas seguir, para que la instalación sea correcta y el sistema funcione adecuadamente?
+Pregunta orientadora: ¿cómo estructurar, mediante una metodología, un protocolo de instalación de un sistema PV que indique con claridad qué sistema se necesita, aislado o centralizado, qué se necesita (materiales, herramientas y equipo de protección), qué riesgos y normas se deben considerar y qué etapas seguir, para que la instalación sea correcta y el sistema funcione adecuadamente?
 
 
 ## 3. Contexto
