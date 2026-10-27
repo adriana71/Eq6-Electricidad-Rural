@@ -49,9 +49,9 @@ Método utilizado en todos los casos: revisión documental.
 | # | Fuente | Fecha | Qué aporta | Link |
 | --- | --- | --- | --- | --- |
 | 1 | Guía SEIAPI de instalación de sistemas fotovoltaicos aislados | Por registrar | Requisitos y recomendaciones para sistemas solares e híbridos: componentes, cableado, protecciones, pruebas, mantenimiento y documentación. | Pendiente |
-| 2 | Reporte del proyecto Skip the Grid, Nación Navajo y Hopi | Marzo de 2026 (instalación) | 50 sistemas aislados instalados; colaboración entre estudiantes, empresas y comunidad. | Pendiente |
-| 3 | Artículo sobre sistemas solares aislados en comunidades rurales de Perú | Por registrar | Beneficios de uso cotidiano; importancia de participación comunitaria, capacitación, mantenimiento y planeación de costos. | Pendiente |
-| 4 | Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos | Por registrar | Dimensionamiento según necesidades reales, elección de batería, metodología de enseñanza y papel del usuario. | Pendiente |
+| 2 | Reporte del proyecto Skip the Grid, Nación Navajo y Hopi | Marzo de 2026 (instalación) | 50 sistemas aislados instalados; colaboración entre estudiantes, empresas y comunidad. | [Consultar PDF](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=2163&context=cmsp). |
+| 3 | Artículo sobre sistemas solares aislados en comunidades rurales de Perú | Por registrar | Beneficios de uso cotidiano; importancia de participación comunitaria, capacitación, mantenimiento y planeación de costos. |[Consultar PDF](https://ojs.library.queensu.ca/index.php/ijsle/article/view/13194). |
+| 4 | Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos | Por registrar | Dimensionamiento según necesidades reales, elección de batería, metodología de enseñanza y papel del usuario. | [Consultar PDF](https://bdd.pseau.org/outils/biblio/resume.php?d=7568). |
 | 5 | IRENA (2023), *Renewable energy for remote communities: a guidebook for off-grid projects* | 2023 | Brechas de acceso, comparación red contra suministro independiente, casos por región y factores a evaluar. | [Consultar PDF](https://www.irena.org/Publications/2023/Nov/Renewable-energy-for-remote-communities-A-guidebook-for-off-grid-projects).|
 | 6 | *Off Grid PV power systems, system installation guidelines* | Por registrar | Evaluación de riesgos, identificación del sistema, estructura, baterías e inversor. | [Consultar PDF](https://www.gsesinternational.com/wp-content/uploads/2021/04/Off-Grid-Install-Guidelines_V3.1-July-2019_compressed.pdf) |
 
