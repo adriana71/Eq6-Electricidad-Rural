@@ -64,7 +64,7 @@ Por ejemplo, una necesidad podría requerir:
 
 ---
 
-### 3. Distribuir responsabilidades iniciales de organización (Este apartado lo llenaremos despues de completar los primeros dos puntos)
+### 3. Distribuir responsabilidades iniciales de organización (No contestar este punto hasta el final)
 
 El equipo deberá acordar quién dará seguimiento inicialmente a algunas
 responsabilidades necesarias para organizar el trabajo.
