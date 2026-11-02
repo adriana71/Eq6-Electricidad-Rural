@@ -19,8 +19,7 @@ El proyecto también destaca la importancia de la participación comunitaria, la
 La energía solar es una alternativa viable para llevar electricidad a zonas rurales, mejorar la calidad de vida y fomentar el desarrollo social. Sin embargo, es necesario planificar adecuadamente los costos y el mantenimiento para asegurar la sostenibilidad del proyecto.
 
 ## Manual de entrenamiento para instaladores de sistemas fotovoltaicos domésticos
-/////////nota complementar manual resumen: Añadir ¿cuáles son las diferentes aplicaciones de la energía solar?, ¿por qué y cuando usar un sistema fotovoltaico?, limitaciones, consideraciones de seguridad y problemas ambientales.
-Un punto importante que mencionas es que la base del sistema son las necesidades cliente por eso, desarrolla y explica por qué es importante, y que cosas son en las que nos debemos fija
+
 Describe como se entranenan técnicos capaces de gestionar un negocio de servicios solares, nos habla un poco de el funcionamiento básico, y se centra en que el sistema  debe calcularse a partir de las necesidades reales del usuario. Consumo diario, disponibilidad solar, las pérdidas de energía y los días de autonomía necesarios. La batería debe elegirse procurando que las descargas habituales no reduzcan demasiado su vida útil. Se propone una metodologia de enseñanza por teoria, mediciones, monatje de circuitos, simulación de fallas y evaluación. Además, considera al usuario parte del sistema: debe conocer sus límites, interpretar los indicadores y realizar el mantenimiento pertinente.
 Se menciona las necesidades del cliente por que en estas comunidades suelen tener una demanda de electricidad más baja, considerando esto podemos instalar sistemas de energia que no entregen tanto y asi mismo mantener los precios lo más bajo posible
 ## Renewable energy for remote communities: a guidebook for off-grid projects
