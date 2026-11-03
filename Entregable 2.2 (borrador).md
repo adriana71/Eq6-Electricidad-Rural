@@ -21,7 +21,7 @@ Pueden utilizar una tabla como la siguiente:
 | Oscar |---|---|---|
 | Jesus |---|---|---|
 | Lazaro |---|---|---|
-| Angel |---|---|---|
+| Angel |El calculo y desarrollo del sistema con un enfoque tecnico|Aportar datos y procesos tecnicos de la intalacion de sistemas fotovoltaicos |Comunicacion efectiva entre los miembros del equipo|
 
 Algunas respuestas pueden estar relacionadas con investigar información,
 documentar, organizar actividades, comunicarse con otras personas, programar,
@@ -42,10 +42,10 @@ Pueden apoyarse en la siguiente tabla:
 
 | Necesidad identificada | ¿Qué sabemos actualmente? | ¿Qué necesitamos hacer para atenderla? |
 |---|---|---|
-|Invetigar sobre potencia instalada en un sistema| | |
-|Investigar sobre equipo de seguridad en una intalacion fotovoltaica| | |
-|Investigar sobre el tipo de terreno en las zonas rurales en Queretaro| | |
-|Investigar sobre los elementos que componen todo un sistema fotovoltaico| | |
+|Invetigar sobre potencia instalada en un sistema|Es un sistema de bajo consumo puesto que esta limitado a instumentos de conservacion de alimentos y un dispositivo electrico extra |Obtener datos experimentales reales y de esta manera realizar una estimacion del sistema |
+|Investigar sobre equipo de seguridad en una intalacion fotovoltaica|Es necesario un equipo minimo de proteccion electrica: guantes dielectricos, botas de seguridad, lentes de proteccion, casco | Investigar la normatividad existente en instalaciones electricas|
+|Investigar sobre el tipo de terreno en las zonas rurales en Queretaro|El terreno propuesto es una zona con desnivel con alta exposicion al sol|Obtener datos para recabar informacion que nos permita saber el ecosistema donde se establecera el sistema |
+|Investigar sobre los elementos que componen todo un sistema fotovoltaico| Dependen del consumo, codiciones climaticas, terreno y presupuesto| Aterrizar a valores reales o fijar un plan minimo de abastecimiento y proponer una estimacion de las propiedades del terreno|
 |(Añadir cualquier otro si es el caso)| | |
 
 Por ejemplo, una necesidad podría requerir:
@@ -95,8 +95,11 @@ el desarrollo del proyecto.
 Como mínimo acuerden:
 
 - ¿Cómo se comunicarán?
+  Angel: Una reunion de meet semanal para verificar los avances y obstaculos. Y un canal de comunicacion mas inmediato como Whatsapp
 - ¿Cómo organizarán y distribuirán las actividades?
+  Angel: Basandonos en los intereses y roles de cada persona.
 - ¿Cómo acordarán fechas y darán seguimiento a pendientes?
+  Angel: Proponer dias de revision, es decir, 2 dias posteriores a la asingacion de la tarea. Un encargado se encargara de verificar que todos tengan un avance, al menos en las tareas criticas.
 - ¿Qué harán cuando un integrante tenga dificultades para cumplir una actividad?
 - ¿Cómo resolverán diferencias o desacuerdos?
 - ¿Cómo revisarán un trabajo antes de considerarlo terminado?
